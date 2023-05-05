@@ -1,6 +1,6 @@
-import Gallery from "./components/gallery";
-import SearchForm from "./components/searchForm";
-import ThemeToggle from "./components/themeToggle";
+import Gallery from "./components/Gallery";
+import SearchForm from "./components/SearchForm";
+import ThemeToggle from "./components/ThemeToggle";
 
 const App = () => {
   return (
